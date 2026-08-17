@@ -82,4 +82,4 @@ ga4-ecommerce-analytics/
 │   ├── weekly_kpis.sql
 │   └── conversion_funnel.sql
 └── images/
-    └── dashboard.png
+    └── GA4_E-Commerce_Performance_Dashboar.png
