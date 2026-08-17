@@ -67,7 +67,7 @@ A Looker Studio dashboard was created to visualize:
 - Weekly revenue trends
 - Weekly performance metrics
 
-![GA4 E-Commerce Dashboard](images/dashboard.png)
+![GA4 E-Commerce Dashboard](images/images/GA4_E-Commerce_Performance_Dashboard.png)
 
 ## Data Source
 
